@@ -1,0 +1,4 @@
+com\example\FeedbackForm\controller\FeedbackController.class
+com\example\FeedbackForm\model\Feedback.class
+com\example\FeedbackForm\repository\FeedbackRepository.class
+com\example\FeedbackForm\FeedbackFormApplication.class
